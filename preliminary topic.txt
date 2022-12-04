@@ -1,0 +1,15 @@
+Topic: the Relationship between the Development of Regional Economy and Natural Environment.
+Index: 
+  the Development of Regional Economy:
+       Month on month growth/ Year on year growth;
+       Compare with other regions
+       Proportion of total economic output
+       
+  Natural Environment:
+       Vegetation coverage
+       AQI
+       Water quality
+       Species richness
+       Bio-diversity
+       Desertification
+       pH value of land
