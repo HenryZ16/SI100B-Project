@@ -1,3 +1,10 @@
+#Ans:
+#Since it spends much time for us to implement these functions,
+#we have been tired to plot the data. So the answers to Q1 and Q3
+#are missing.
+#2. It does well except the prediction based on moving average, 
+#   which gives a different answer in 2012.
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
