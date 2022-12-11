@@ -210,8 +210,8 @@ def predict_by_moving_avg(csv_file_path, election_date):
         return "Republican"
     return
 
-#df = cal_moving_avg('intrade08.csv', election_date='2008-11-04', filename='intrade08_MA.csv');
-#df = cal_moving_avg('intrade12.csv', election_date='2012-11-06', filename='intrade12_MA.csv');
+df = cal_moving_avg('intrade08.csv', election_date='2008-11-04', filename='intrade08_MA.csv');
+df = cal_moving_avg('intrade12.csv', election_date='2012-11-06', filename='intrade12_MA.csv');
 
 winner = predict_by_moving_avg('intrade08_MA.csv', election_date='2008-11-04')
 print('Predicted winner of 2008:', winner)
